@@ -17,8 +17,8 @@
       "type": "font",
       "name": "Pretendard JP",
       "version": "1.3.9",
-      "author": "Kil Hyung-jin",
-      "description": "A clean, highly legible sans-serif font family optimised for Japanese environments. Kana and kanji are scaled down 6.25 % to align with Latin glyphs, full-width punctuation and Japanese-specific symbols are included, and the design is built on Source Han Sans JP, M PLUS 1, and Inter — making it an ideal companion for Japanese, Korean, and Latin text on the same keyboard.",
+      "author": "길형진",
+      "description": "한국어, 영어, 일본어에 공통 적용되는 글꼴로 언어 전환에 따른 부자연스러운 글꼴 변경을 방지합니다. 현대적이며 가독성이 높은 세련된 글골입니다. 본 애드온은 OFL 1.1 라이선스에 따라 원작자와 무관하게 패키지되어 배포됩니다.",
       "tags": [
         "sans-serif",
         "modern",
@@ -29,10 +29,9 @@
         "font"
       ],
       "path": "fonts/pretendard-jp.otf",
-      "sha256": "8e45c1999c941e8237e52c650c64667638cff1e50b9492c7b02ee1d380b7d06d",
       "sizeBytes": 3652728,
       "previews": [],
-      "langIds": ["ja", "ko", "en"],
+      "langIds": ["ko", "en", "ja"],
       "license": "OFL-1.1",
       "licenseFile": "fonts/PRETENDARD-JP-LICENSE.txt"
     }
