@@ -1,5 +1,5 @@
 {
-  "$schema": "https://raw.githubusercontent.com/justcontributor/kopack/main/docs/addons/wmkeyboard-repo.schema.json",
+  "$schema": "https://raw.githubusercontent.com/wasi-master/wmkeyboard-addon-repository/main/docs/addons/wmkeyboard-repo.schema.json",
   "format": "wmkeyboard-repo",
   "version": 1,
   "repo": {
@@ -34,6 +34,20 @@
       "langIds": ["ko", "en", "ja"],
       "license": "OFL-1.1",
       "licenseFile": "fonts/PRETENDARD-JP-LICENSE.txt"
+    },
+    {
+      "id": "cheonjiin-plus",
+      "type": "layout",
+      "name": "천지인 플러스",
+      "version": "1.0.0",
+      "author": "justcontributor",
+      "description": "천지인 플러스 레이아웃입니다. 천지인의 모음 조합 체계를 유지하되 더 빠르게 입력할 수 있습니다.",
+      "tags": ["korean", "layout", "cheonjiin", "cheonjiin-plus"],
+      "path": "layouts/cheonjiin-plus.wmlayout.json",
+      "sizeBytes": 3527,
+      "sha256": "5a63b2f517e19786fc80710446be56ca520a8ba34a9bcde406f2eabbbad7c4e9",
+      "previews": [],
+      "langIds": ["ko"]
     }
   ]
 }
