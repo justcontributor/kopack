@@ -1,7 +1,7 @@
 {
   "$schema": "https://raw.githubusercontent.com/wasi-master/wmkeyboard-addon-repository/main/docs/addons/wmkeyboard-repo.schema.json",
   "format": "wmkeyboard-repo",
-  "version": 1,
+  "version": 2,
   "repo": {
     "id": "com.github.justcontributor.kopack",
     "name": "kopack",
