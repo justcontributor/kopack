@@ -761,6 +761,37 @@
       "licenseFile": "fonts/OFL-LICENSE.txt"
     },
     {
+      "id": "pretendard-jp",
+      "type": "font",
+      "name": "Pretendard JP",
+      "version": "1.3.9",
+      "author": "Kil Hyung-jin",
+      "description": "A clean, highly legible sans-serif font family optimised for Japanese environments. Kana and kanji are scaled down 6.25 % to align with Latin glyphs, full-width punctuation and Japanese-specific symbols are included, and the design is built on Source Han Sans JP, M PLUS 1, and Inter — making it an ideal companion for Japanese, Korean, and Latin text on the same keyboard.",
+      "tags": [
+        "sans-serif",
+        "modern",
+        "clean",
+        "ui",
+        "japanese",
+        "korean",
+        "font"
+      ],
+      "path": "fonts/pretendard-jp.otf",
+      "sha256": "",
+      "sizeBytes": 0,
+      "previews": [
+        "previews/pretendard-jp-grid.jpg",
+        "previews/pretendard-jp.jpg"
+      ],
+      "langIds": [
+        "ja",
+        "ko",
+        "en"
+      ],
+      "license": "OFL-1.1",
+      "licenseFile": "fonts/PRETENDARD-JP-LICENSE.txt"
+    },
+    {
       "id": "noto-color-emoji",
       "type": "emoji_font",
       "name": "Noto Color Emoji",
