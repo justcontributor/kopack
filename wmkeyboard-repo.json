@@ -1,7 +1,7 @@
 {
   "$schema": "https://raw.githubusercontent.com/wasi-master/wmkeyboard-addon-repository/main/docs/addons/wmkeyboard-repo.schema.json",
   "format": "wmkeyboard-repo",
-  "version": 2,
+  "version": 3,
   "repo": {
     "id": "com.github.justcontributor.kopack",
     "name": "kopack",
@@ -44,7 +44,7 @@
       "id": "cheonjiin-plus",
       "type": "layout",
       "name": "천지인 플러스",
-      "version": "1.0.0",
+      "version": "1.0.1",
       "author": "justcontributor",
       "description": "천지인 플러스 레이아웃입니다. 천지인의 모음 조합 체계를 유지하되 더 빠르게 입력할 수 있습니다.",
       "tags": [
