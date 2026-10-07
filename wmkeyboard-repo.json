@@ -9,7 +9,7 @@
     "author": "justcontributor",
     "homepage": "https://github.com/justcontributor/kopack",
     "icon": "icon.png",
-    "updatedAt": "2026-10-01"
+    "updatedAt": "2026-10-07"
   },
   "addons": [
     {
@@ -32,11 +32,7 @@
       "sha256": "8e45c1999c941e8237e52c650c64667638cff1e50b9492c7b02ee1d380b7d06d",
       "sizeBytes": 3652728,
       "previews": [],
-      "langIds": [
-        "ko",
-        "en",
-        "ja"
-      ],
+      "langIds": ["ko", "en", "ja"],
       "license": "OFL-1.1",
       "licenseFile": "fonts/PRETENDARD-JP-LICENSE.txt"
     },
@@ -47,19 +43,26 @@
       "version": "1.0.2",
       "author": "justcontributor",
       "description": "천지인 플러스 레이아웃입니다. 천지인의 모음 조합 체계를 유지하되 더 빠르게 입력할 수 있습니다.",
-      "tags": [
-        "korean",
-        "layout",
-        "cheonjiin",
-        "cheonjiin-plus"
-      ],
+      "tags": ["korean", "layout", "cheonjiin", "cheonjiin-plus"],
       "path": "layouts/cheonjiin-plus.wmlayout.json",
       "sha256": "b75c8ba14c853bcaee51e2ba92589c41253a2cf9897f2176187bfe4c51c0239d",
       "sizeBytes": 3603,
       "previews": [],
-      "langIds": [
-        "ko"
-      ]
+      "langIds": ["ko"]
+    },
+    {
+      "id": "vega",
+      "type": "layout",
+      "name": "베가",
+      "version": "1.0.0",
+      "author": "justcontributor",
+      "description": "베가 레이아웃입니다. 피처폰의 친숙한 레이아웃을 그대로 이식했으며, 키가 넓어 입력하기 쉽습니다.",
+      "tags": ["korean", "layout", "vega", "sky"],
+      "path": "layouts/vega.wmlayout.json",
+      "sha256": "d9a868a8383148a3db7d51a109abd6ffac89ce3ef2e84b4d80ba40b83c897cd3",
+      "sizeBytes": 3348,
+      "previews": [],
+      "langIds": ["ko"]
     }
   ]
 }
