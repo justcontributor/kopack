@@ -1,26 +1,32 @@
 <div align="center">
   <img src="icon.png" width="128" height="128" alt="Kopack Icon" />
-  <h1>Kopack (WM Keyboard Korean Pack)</h1>
-  <p>WM Keyboard Korean Addon Pack - Essential addons for Korean users.</p>
+  <h1>Kopack</h1><h3>WM Keyboard Korean Pack</h3>
+  <p>WM Keyboard addons for Korean users.</p>
 </div>
 
 ---
 
-## Addons Catalog
+## 사용법 (for Koreans)
 
-To add this repository in **WM Keyboard**, open **Settings → Addons → Add repository** and paste the repository URL:
-`https://github.com/justcontributor/kopack`
+**WM Keyboard**의 **설정 → 애드온 → 저장소 추가**에서 아래 저장소 URL을 붙여 넣으세요.
 
-| Addon | Type | Description | Payload File |
-|---|---|---|---|
-| **Pretendard JP** | `font` | A clean, highly legible sans-serif font family optimised for Japanese environments. Kana and kanji are scaled down 6.25 % to align with Latin glyphs, full-width punctuation and Japanese-specific symbols are included, and the design is built on Source Han Sans JP, M PLUS 1, and Inter — making it an ideal companion for Japanese, Korean, and Latin text on the same keyboard. | [`fonts/pretendard-jp.otf`](fonts/pretendard-jp.otf) |
-| **천지인 플러스 (Cheonjiin Plus)** | `layout` | 천지인 플러스 레이아웃 (Cheonjiin Plus Layout) - WM Keyboard용 한국어 배열. | [`layouts/cheonjiin-plus.wmlayout.json`](layouts/cheonjiin-plus.wmlayout.json) |
+```
+https://github.com/justcontributor/kopack
+```
+
+## 애드온 목록
+
+### 글꼴
+
+- **Pretendard JP** - WM Keyboard에 현대적이고 세련된 글꼴을 적용하세요. 한국어/영어/일본어 언어 변경에 따른 커닝 등의 변경을 막아요.
+
+### 레이아웃
+
+- **천지인 플러스 (Cheonjiin Plus)** - 기존 천지인에서 키를 나눠 같은 키를 여러 번 누르지 않아도 되도록 개선한 버전이에요.
 
 ---
 
 ## Addon Details
-
-**Fonts.** **Pretendard JP** (sans-serif) licensed under the SIL Open Font License ([`fonts/PRETENDARD-JP-LICENSE.txt`](fonts/PRETENDARD-JP-LICENSE.txt)).
 
 **Layouts.** **천지인 플러스 (Cheonjiin Plus)** (layout) tailored for Korean users.
 
@@ -29,5 +35,7 @@ Everything is indexed by [`wmkeyboard-repo.json`](wmkeyboard-repo.json) at the r
 ---
 
 ## License
+
+**Pretendard JP** (sans-serif) licensed under the SIL Open Font License Version 1.1 ([`fonts/PRETENDARD-JP-LICENSE.txt`](fonts/PRETENDARD-JP-LICENSE.txt)).
 
 Repository contents are open source, licensed under the terms described in the respective addon's license file.
